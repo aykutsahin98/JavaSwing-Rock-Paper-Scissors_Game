@@ -1,0 +1,4 @@
+Projenin içerisinde ki png dosyalarına Tas_Kagit_Makas > Src > taskagitmakas_resim klasöründen ulaşabilirsiniz.
+
+******ENGLISH******
+You can access png files in the project from Tas_Kagit_Makas> Src> taskagitmakas_resim folder.
