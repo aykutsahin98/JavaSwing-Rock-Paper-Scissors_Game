@@ -4,7 +4,7 @@
 First of all, when the player presses the play button after selecting the move, the computer will try to win the game by making a choice against the move selected by the player. At the same time, the points obtained will be kept in the scores table to show how many points the player has won the game.
 
 **Application Screenshot**
-![rgb_1](https://user-images.githubusercontent.com/36954450/Ek Açıklama 2020-02-11 15152.JPG)
+![rgb_1](https://user-images.githubusercontent.com/36954450/gamepicture.JPG)
 
 **Programming Language:**
 ```
